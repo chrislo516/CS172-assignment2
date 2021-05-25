@@ -2,3 +2,4 @@ __pycache__
 .vscode
 data/__MACOSX
 data/ap89_collection_small
+.DS_Store
